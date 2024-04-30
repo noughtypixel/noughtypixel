@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @noughtypixel
-- 👀 I’m interested in retro style game development
+- 🕹️ I’m interested in retro style game development
 - 🌱 I’m currently learning Nix, *maybe*...
 - 💞️ I’m looking to collaborate on stuff
 - 📫 Contact me on the internet
-- 😄 Pronouns: they/them
+- 🏳️‍🌈 Pronouns: they/them
 - 🎂 Fun fact: Technically 4 years old
 
 <!---
